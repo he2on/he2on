@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey!
 
 - 👯 I’m looking to collaborate on sec
-- 🤔 I’m looking for help with mon
-- ⚡ Fun fact: shame
+- 🤔 I’m looking for mon
+- ⚡ Fun fact: shame, what?
 
 <!--
 **he2on/he2on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
